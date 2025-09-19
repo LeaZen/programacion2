@@ -25,9 +25,14 @@ public class Mascota {
     Cada Mascota creada toma como ID, el valor del contador (incrementado)
     en el momento de su creación. --> this.id = contador;
     */
+    
     this.nombre = nombre;
     this.especie = especie;
     this.edad = edad;
+    // setNombre(nombre);
+    // setEspecie(especie);
+    // setEdad(edad);
+    
     }
     // Fin Constructores.
     
